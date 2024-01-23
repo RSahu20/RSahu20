@@ -15,8 +15,9 @@
 - 👯 I’m looking to collaborate on *OpenSource Projects*
 
 - ✨ Avid learner of *Machine learning & AI.*
+  
 
-- 👨‍💻 All of my projects are available at **[My Github](https://github.com/RSahu20)**
+- 👨‍💻 All of my projects are available at my **[ Portfolio ](https://portfolio-rajsahu.netlify.app/)**
 
 - 📫 How to reach me *rajsahu012002@gmail.com*
 
