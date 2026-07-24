@@ -1,79 +1,118 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+# Hi, I'm Raj Sahu 👋
 
-<h1 align="center">Hey, Mates!<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Raj</h1>
-<h3 align="center">I'm a passionate web Developer & Competitive Coder.</h3>
+### AI Engineer | Generative AI · Agentic Systems · Backend Engineering
 
+I’m a **Software & AI Engineer with 2.5+ years of experience** building intelligent AI applications and scalable backend systems.
 
-## 🙋‍♂️ About Me
+My experience spans **Generative AI, LLMs, RAG, Agentic AI, Machine Learning, and Backend Engineering** — from developing AI-powered workflows and intelligent applications to building secure, scalable APIs and production backend architectures.
 
-- 🔭 I’m currently working on *Open Source & Web Development*
+I enjoy solving complex engineering problems at the intersection of **AI and Software Engineering** and turning ideas into reliable, production-ready systems.
 
-- 👨‍💻 Regular *Competitive Coder.*
+---
 
-- 🌱 I’m currently learning *Data Structures and Algorithms.*
+## 🚀 What I Work On
 
-- 👯 I’m looking to collaborate on *OpenSource Projects*
+* 🤖 Building **Generative AI, RAG, and Agentic AI applications** using LLMs, AI agents, intelligent workflows, and tool integrations
+* ⚙️ Developing **scalable backend systems and REST APIs** using Python, Django, Django REST Framework, and FastAPI
+* 🏗️ Designing **backend architectures, service layers, workflow systems, and modular applications**
+* 🔐 Implementing **authentication, authorization, RBAC, ABAC, permission systems, and multi-tenant architectures**
+* 🧠 Working with **Machine Learning, Deep Learning, NLP, Transformers, embeddings, and semantic search**
+* 🔗 Building **LLM orchestration and agentic workflows** using LangGraph, LangChain, tool calling, and structured AI pipelines
+* 🗄️ Working with **PostgreSQL, MongoDB, Redis, caching, vector databases, and data-intensive applications**
+* ☁️ Working with **Docker, Azure, cloud services, and production application environments**
+* 📊 Improving systems through **observability, evaluation, performance optimization, caching, and scalable system design**
 
-- ✨ Avid learner of *Machine learning & AI.*
-  
+---
 
-- 👨‍💻 All of my projects are available at my **[ Portfolio ](https://portfolio-rajsahu.netlify.app/)**
+## 🛠️ Tech Stack
 
-- 📫 How to reach me *rajsahu012002@gmail.com*
+### 🤖 AI, GenAI & LLM Engineering
 
+`Generative AI` · `LLMs` · `RAG` · `Agentic AI` · `AI Agents` · `LangGraph` · `LangChain` · `OpenAI` · `Azure OpenAI` · `Ollama` · `Hugging Face`
 
-## 🚀 Languages and Tools:
+### 🧠 Machine Learning & NLP
 
-<p align="left"> 
-    <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"> <img src="/> </a>
-    <a href="https://www.cplusplus.com/" target="_blank"> <img src=""/> </a> 
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
-    <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
-    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
-    <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a> 
-    <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a>  
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
-    
-    
-</p>
+`PyTorch` · `TensorFlow` · `Scikit-learn` · `Transformers` · `NLP` · `Embeddings` · `Semantic Search` · `Sentence Transformers` · `Pandas` · `NumPy`
 
-<!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
-<br/>
+### ⚙️ Backend Engineering
+
+`Python` · `Django` · `Django REST Framework` · `FastAPI` · `REST APIs` · `API Design` · `Service Architecture` · `Workflow Systems`
+
+### 🔐 Backend Architecture & Security
+
+`Authentication` · `Authorization` · `RBAC` · `ABAC` · `JWT` · `OAuth` · `Multi-Tenancy` · `Permission Systems` · `API Security`
+
+### 🗄️ Data, Search & Caching
+
+`PostgreSQL` · `MongoDB` · `Redis` · `FAISS` · `Vector Databases` · `Azure AI Search` · `Caching`
+
+### ☁️ Cloud & Engineering Tools
+
+`Azure` · `Docker` · `Git` · `GitHub` · `Linux`
+
+---
+
+## 💡 What I Enjoy Building
+
+I’m particularly interested in building systems where **AI capabilities and strong backend engineering come together**.
+
+* **Generative AI and LLM-powered applications**
+* **AI agents and agentic workflows**
+* **RAG and intelligent knowledge systems**
+* **Scalable backend services and REST APIs**
+* **Workflow-driven and multi-tenant applications**
+* **Authentication, authorization, RBAC, and ABAC systems**
+* **ML and NLP-powered applications**
+* **Data, caching, and retrieval architectures**
+* Systems built for **scalability, security, observability, and maintainability**
+
+I believe production AI is much more than connecting an application to an LLM.
+
+Great AI products require **strong backend engineering, reliable data systems, thoughtful architecture, security, evaluation, and scalable infrastructure** behind the intelligence.
+
+---
+
+## 🔭 Currently Exploring
+
+* Advanced **Agentic AI and multi-agent systems**
+* **LLM reliability, evaluation, and observability**
+* Advanced **RAG and retrieval techniques**
+* Scalable architectures for **AI-powered applications**
+* **AI system performance and optimization**
+* New developments across **LLMs, ML, and Applied AI**
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-    <a href="https://github.com/Rsahu20/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Raj Sahu streak" src="https://github-readme-streak-stats.herokuapp.com/?user=RSahu20&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Rsahu20&show_icons=true&theme=github_dark&hide_border=true" alt="Raj Sahu GitHub Stats" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Rsahu20&theme=github-dark-blue&hide_border=true" alt="Raj Sahu GitHub Streak" />
 </p>
 
-## 📊 My Github Stats
+---
 
-  <br/>
-  <a href="https://github.com/Rsahu20/github-readme-stats"><img alt="Raj Sahu Github Stats" src="https://github-readme-stats.vercel.app/api?username=Rsahu20&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/Rsahu20/github-readme-stats"><img alt="Raj Sahu Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rsahu20&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+## 🤝 Let's Connect
 
+I’m always interested in connecting with engineers, researchers, and teams working across **AI, Generative AI, Machine Learning, Backend Engineering, and Software Engineering**.
 
-<br/>
-<br/>
+I enjoy discussing interesting engineering problems, building intelligent products, and exploring how **AI and robust software architecture** can come together to solve real-world problems.
 
-<a href="https://github.com/SubhamRaoniar28/github-readme-activity-graph"><img alt="Raj Sahu Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=RSahu20&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
-<br/>
-<br/>
-
-## Connect with me:
 <p align="left">
-
-<a href = "https://www.linkedin.com/in/rajsahu012002/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-
+  <a href="https://www.linkedin.com/in/rajsahu012002/">
+    <img src="https://img.shields.io/badge/LinkedIn-Raj%20Sahu-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:rajsahu012002@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail" alt="Email"/>
+  </a>
 </p>
 
-## ❤ Views and Followers
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="(https://komarev.com/ghpvc/?username=mihiragarwal92>
-                                                                 
-</a>
-<a href="https://github.com/Rsahu20?tab=followers"><img src="https://img.shields.io/github/followers/mihiragarwal92?label=Followers&style=social" alt="GitHub Badge"></a>
+---
+
+<p align="center">
+  <b>AI Engineering × Backend Engineering × Scalable Systems</b>
+</p>
+
+<p align="center">
+  Building intelligent systems backed by solid engineering.
+</p>
